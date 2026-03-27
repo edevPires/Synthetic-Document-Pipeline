@@ -1,0 +1,18 @@
+Faker
+Jinja2
+WeasyPrint
+pdf2image
+Pillow
+numpy
+
+# Treino Donut / Qwen
+transformers>=4.37.0
+sentencepiece
+tqdm
+trl
+peft
+bitsandbytes
+datasets
+
+# Instalar manualmente com suporte a CUDA:
+# pip install torch torchvision --index-url https://download.pytorch.org/whl/cu121
